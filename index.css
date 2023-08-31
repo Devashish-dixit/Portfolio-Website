@@ -1,0 +1,382 @@
+.desktop-1-child {
+    position: absolute;
+    top: 1024px;
+    left: 0;
+    background-color: var(--color-gray-100);
+    width: 1440px;
+    height: 4096px;
+  }
+  .abf07c-250c-4016-855f-4337327e-icon {
+    position: absolute;
+    top: 0;
+    left: 757px;
+    width: 694px;
+    height: 1024px;
+    object-fit: cover;
+  }
+  .devashish-dixit-removebg-previ-icon {
+    position: absolute;
+    top: 136px;
+    left: 98px;
+    width: 622px;
+    height: 250px;
+    object-fit: cover;
+  }
+  .data-scientist-and,
+  .ive-been-coding {
+    position: absolute;
+    top: 505px;
+    left: 115px;
+  }
+  .ive-been-coding {
+    top: 540px;
+    font-size: 22px;
+    color: var(--color-darkgray);
+    display: inline-block;
+    width: 518px;
+  }
+  .desktop-1-inner,
+  .desktop-1-item {
+    position: absolute;
+    top: 766px;
+    border-radius: var(--br-8xl);
+    width: 191px;
+    height: 56px;
+  }
+  .desktop-1-item {
+    left: 115px;
+    background-color: #000;
+    mix-blend-mode: normal;
+  }
+  .desktop-1-inner {
+    left: 348px;
+    background-color: rgba(139, 125, 92, 0.6);
+  }
+  .contact-me,
+  .view-cv {
+    position: absolute;
+    top: 779px;
+    left: 144px;
+  }
+  .view-cv {
+    left: 395px;
+    color: var(--color-gray-100);
+  }
+  .adcdvasvnuna-1-icon,
+  .untitled-design-removebg-previ-icon {
+    position: absolute;
+    top: 1118px;
+    left: 66px;
+    width: 723px;
+    height: 188px;
+    object-fit: cover;
+  }
+  .adcdvasvnuna-1-icon {
+    top: 1398px;
+    left: 116px;
+    width: 311px;
+    height: 416px;
+  }
+  .education {
+    position: absolute;
+    top: 1407px;
+    left: 642px;
+    font-size: var(--font-size-17xl);
+    color: var(--color-white);
+  }
+  .certifications-and {
+    margin: 0;
+  }
+  .certifications-and-achievement-container {
+    position: absolute;
+    top: 1398px;
+    left: 1027px;
+    font-size: var(--font-size-17xl);
+    color: var(--color-white);
+  }
+  .undergraduate-computer-science {
+    margin: 0;
+    padding-left: var(--padding-13xl);
+  }
+  .undergraduate-computer-science-container {
+    position: absolute;
+    top: 1513px;
+    left: 606px;
+    font-size: var(--font-inherit);
+    font-family: var(--font-inherit);
+    color: var(--color-darkgray);
+    display: inline-block;
+    width: 369px;
+  }
+  .applied-data-science {
+    margin-bottom: 0;
+  }
+  .applied-data-science-container {
+    position: absolute;
+    top: 1513px;
+    left: 991px;
+    font-size: var(--font-inherit);
+    font-family: var(--font-inherit);
+    color: var(--color-darkgray);
+    display: inline-block;
+    width: 369px;
+  }
+  .download-7-1 {
+    position: absolute;
+    top: 3072px;
+    left: 670px;
+    width: 770px;
+    height: 977px;
+    object-fit: cover;
+  }
+  .contactme-1-icon,
+  .like-a-computer-program-life-icon {
+    position: absolute;
+    top: 3108px;
+    left: 0;
+    width: 901px;
+    height: 871px;
+    object-fit: cover;
+  }
+  .contactme-1-icon {
+    top: 4203px;
+    left: 41px;
+    width: 679px;
+    height: 151px;
+  }
+  .dsc-0383-1-icon {
+    top: 4203px;
+    left: 828px;
+    width: 576px;
+    height: 847px;
+    object-fit: cover;
+  }
+  .address,
+  .dsc-0383-1-icon,
+  .icon {
+    position: absolute;
+  }
+  .icon {
+    top: 4427px;
+    left: 638px;
+    width: 380px;
+    height: 509px;
+    object-fit: cover;
+  }
+  .address {
+    top: 4627px;
+    left: 79px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .line-div {
+    position: absolute;
+    top: 4669.5px;
+    left: 78.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .home-658-shiv-container {
+    position: absolute;
+    top: 4682px;
+    left: 79px;
+    color: var(--color-darkgray);
+  }
+  .phone {
+    position: absolute;
+    top: 4806px;
+    left: 79px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .desktop-1-child1 {
+    position: absolute;
+    top: 4848.5px;
+    left: 78.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .div,
+  .email {
+    position: absolute;
+    left: 79px;
+  }
+  .div {
+    top: 4861px;
+    color: var(--color-darkgray);
+  }
+  .email {
+    top: 4927px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .desktop-1-child2 {
+    position: absolute;
+    top: 4969.5px;
+    left: 78.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .icon1,
+  .pexels-photo-1486222-1-icon {
+    position: absolute;
+    top: 2425px;
+    left: 522px;
+    width: 395px;
+    height: 309px;
+    object-fit: cover;
+  }
+  .icon1 {
+    left: 973px;
+  }
+  .mexico-apartments-price {
+    position: absolute;
+    top: 2781px;
+    left: 71px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .desktop-1-child3,
+  .desktop-1-child4,
+  .desktop-1-child5 {
+    position: absolute;
+    top: 2975.5px;
+    left: 70.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .desktop-1-child4,
+  .desktop-1-child5 {
+    top: 2924.5px;
+  }
+  .desktop-1-child5 {
+    top: 2871.5px;
+  }
+  .devashish244713gmailcom {
+    position: absolute;
+    top: 4982px;
+    left: 79px;
+    color: var(--color-darkgray);
+  }
+  .pandas-plotly-express,
+  .regularization-models {
+    position: absolute;
+    top: 2884px;
+    left: 71px;
+    color: var(--color-white);
+  }
+  .pandas-plotly-express {
+    top: 2936px;
+  }
+  .customer-segmentation-in-container {
+    position: absolute;
+    top: 2781px;
+    left: 522px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .desktop-1-child6,
+  .desktop-1-child7,
+  .desktop-1-child8 {
+    position: absolute;
+    top: 2924.5px;
+    left: 521.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .desktop-1-child7,
+  .desktop-1-child8 {
+    top: 2975.5px;
+  }
+  .desktop-1-child8 {
+    top: 2871.5px;
+  }
+  .kmeans-clustering {
+    position: absolute;
+    top: 2884px;
+    left: 522px;
+    color: var(--color-white);
+  }
+  .brazil-real-estate-container {
+    position: absolute;
+    top: 2781px;
+    left: 973px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .pandas-plotly-express1 {
+    position: absolute;
+    top: 2936px;
+    left: 522px;
+    color: var(--color-white);
+  }
+  .desktop-1-child10,
+  .desktop-1-child11,
+  .desktop-1-child9 {
+    position: absolute;
+    top: 2871.5px;
+    left: 972.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .desktop-1-child10,
+  .desktop-1-child11 {
+    top: 2975.5px;
+  }
+  .desktop-1-child11 {
+    top: 2924.5px;
+  }
+  .data-analysis-and,
+  .pandas-plotly-express2 {
+    position: absolute;
+    top: 2884px;
+    left: 973px;
+    color: var(--color-white);
+  }
+  .pandas-plotly-express2 {
+    top: 2936px;
+  }
+  .mexico-wallpaper-39-1920x1080-icon,
+  .untitled-design-1-removebg-p-icon {
+    position: absolute;
+    top: 2425px;
+    left: 71px;
+    width: 395px;
+    height: 309px;
+    object-fit: cover;
+  }
+  .untitled-design-1-removebg-p-icon {
+    top: 2174px;
+    width: 598px;
+    height: 173px;
+  }
+  .desktop-1 {
+    position: relative;
+    background-color: #3c2e21;
+    width: 100%;
+    height: 5120px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-linen);
+    font-family: var(--font-inter);
+  }
+  
