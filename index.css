@@ -1,0 +1,466 @@
+.ecec6ef73e4440004f09e75-1-icon,
+.icon {
+  position: absolute;
+  top: 11px;
+  left: 1330px;
+  width: 68px;
+  height: 64px;
+  object-fit: cover;
+  transition: background-color 0.3s, transform 0.3s;
+}
+.icon {
+  top: 8px;
+  left: 1235px;
+  width: 70px;
+  height: 70px;
+  transition: background-color 0.3s, transform 0.3s;
+}
+.linkedin-logo-linkedin-logo-tr-icon {
+  position: absolute;
+  top: 7px;
+  left: 1139px;
+  width: 77px;
+  height: 77px;
+  object-fit: cover;
+  transition: background-color 0.3s, transform 0.3s;
+}
+.ecec6ef73e4440004f09e75-1-icon:hover,
+.icon:hover,
+.linkedin-logo-linkedin-logo-tr-icon:hover {
+  transform: scale(1.2);
+  opacity: 0.8;
+}
+
+
+.navbar {
+  z-index: 999;
+  position: relative;
+  height: 100px;
+  width: 100%;
+  overflow: hidden;
+}
+.abf07c-250c-4016-855f-4337327e-icon {
+    position: absolute;
+    top: 0;
+    right:0;
+    width: 608px;
+    height: 918px;
+    object-fit: cover;
+  }
+  .desktop-1-child {
+    position: absolute;
+    top: 918px;
+    left: 0;
+    right: 0;
+    background-color: var(--color-gray-100);
+    /* width: 1440px; */
+    height: 3950px;
+  }
+  .devashish-dixit-removebg-previ-icon {
+    position: absolute;
+    top: 64px;
+    left: 98px;
+    width: 622px;
+    height: 250px;
+    object-fit: cover;
+  }
+  .data-scientist-and,
+  .ive-been-coding {
+    position: absolute;
+    top: 378px;
+    left: 98px;
+  }
+  .ive-been-coding {
+    top: 413px;
+    font-size: 22px;
+    color: var(--color-darkgray);
+    display: inline-block;
+    width: 518px;
+  }
+  .desktop-1-inner,
+  .desktop-1-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 24px;
+    position: absolute;
+    top: 639px;
+    border-radius: var(--br-8xl);
+    width: 191px;
+    height: 56px;
+    border: none;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  .desktop-1-item:hover {
+    background-color: rgba(139, 125, 92, 0.6);
+    color: #000;
+    transform: scale(1.1);
+}
+.desktop-1-inner:hover{
+  background-color: #000;
+  color: #fff;
+  transform: scale(1.1);
+}
+  .desktop-1-item {
+    left: 98px;
+    font-size: 21px;
+    background-color: #000;
+    mix-blend-mode: normal;
+  }
+  .desktop-1-inner {
+    left: 331px;
+    font-size: 21px;
+    color: #000;
+    background-color: rgba(139, 125, 92, 0.6);
+  }
+  .adcdvasvnuna-1-icon,
+  .untitled-design-removebg-previ-icon {
+    position: absolute;
+    top: 935px;
+    left: 61px;
+    width: 723px;
+    height: 188px;
+    object-fit: cover;
+  }
+  .adcdvasvnuna-1-icon {
+    top: 1207px;
+    left: 115px;
+    width: 311px;
+    height: 416px;
+  }
+  .education {
+    position: absolute;
+    top: 1216px;
+    left: 641px;
+    font-size: var(--font-size-17xl);
+    color: var(--color-white);
+  }
+  .certifications-and {
+    margin: 0;
+  }
+  .certifications-and-achievement-container {
+    position: absolute;
+    top: 1207px;
+    left: 1026px;
+    font-size: var(--font-size-17xl);
+    color: var(--color-white);
+  }
+  .undergraduate-computer-science {
+    margin: 0;
+    padding-left: var(--padding-13xl);
+  }
+  .undergraduate-computer-science-container {
+    position: absolute;
+    top: 1322px;
+    left: 605px;
+    font-size: var(--font-inherit);
+    font-family: var(--font-inherit);
+    color: var(--color-darkgray);
+    display: inline-block;
+    width: 369px;
+  }
+  .applied-data-science {
+    margin-bottom: 0;
+  }
+  .applied-data-science-container {
+    position: absolute;
+    top: 1322px;
+    left: 990px;
+    font-size: var(--font-inherit);
+    font-family: var(--font-inherit);
+    color: var(--color-darkgray);
+    display: inline-block;
+    width: 369px;
+  }
+  .download-7-1 {
+    position: absolute;
+    top: 2681px;
+    right: 0;
+    width: 754px;
+    height: 916px;
+    object-fit: cover;
+  }
+  .contactme-1-icon,
+  .like-a-computer-program-life-icon {
+    position: absolute;
+    top: 2673px;
+    left: 4px;
+    width: 1011px;
+    height: 888px;
+    object-fit: cover;
+  }
+  .contactme-1-icon {
+    top: 3850px;
+    left: 38px;
+    width: 600px;
+    height: 133px;
+    padding-top: 100px;
+    margin-top: -100px;
+    display: block;
+  }
+  .dsc-0383-1-icon {
+    top: 3711px;
+    left: 825px;
+    width: 576px;
+    height: 847px;
+    object-fit: cover;
+  }
+  .address,
+  .dsc-0383-1-icon,
+  .icon2 {
+    position: absolute;
+  }
+  .icon2 {
+    top: 3935px;
+    left: 635px;
+    width: 380px;
+    height: 509px;
+    object-fit: cover;
+  }
+  .address {
+    top: 4135px;
+    left: 76px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .line-div {
+    position: absolute;
+    top: 4177.5px;
+    left: 75.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .home-658-shiv-container {
+    position: absolute;
+    top: 4190px;
+    left: 76px;
+    color: var(--color-darkgray);
+  }
+  .phone {
+    position: absolute;
+    top: 4314px;
+    left: 76px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .desktop-1-child1 {
+    position: absolute;
+    top: 4368.5px;
+    left: 75.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .div,
+  .email {
+    position: absolute;
+    left: 76px;
+  }
+  .div {
+    top: 4381px;
+    color: var(--color-darkgray);
+  }
+  .email {
+    top: 4447px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .desktop-1-child2 {
+    position: absolute;
+    top: 4489.5px;
+    left: 75.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .icon1,
+  .pexels-photo-1486222-1-icon {
+    position: absolute;
+    top: 2016px;
+    left: 512px;
+    width: 395px;
+    height: 309px;
+    object-fit: cover;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  .icon1 {
+    left: 963px;
+  }
+  .icon1:hover,
+  .pexels-photo-1486222-1-icon:hover{
+    transform: scale(1.1);
+  }  
+  .mexico-apartments-price {
+    position: absolute;
+    top: 2372px;
+    left: 61px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .desktop-1-child3,
+  .desktop-1-child4,
+  .desktop-1-child5 {
+    position: absolute;
+    top: 2566.5px;
+    left: 60.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .desktop-1-child4,
+  .desktop-1-child5 {
+    top: 2515.5px;
+  }
+  .desktop-1-child5 {
+    top: 2462.5px;
+  }
+  .devashish244713gmailcom {
+    position: absolute;
+    top: 4502px;
+    left: 76px;
+    color: var(--color-darkgray);
+  }
+  .pandas-plotly-express,
+  .regularization-models {
+    position: absolute;
+    top: 2475px;
+    left: 61px;
+    color: var(--color-white);
+  }
+  .pandas-plotly-express {
+    top: 2527px;
+  }
+  .customer-segmentation-in-container {
+    position: absolute;
+    top: 2372px;
+    left: 512px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .desktop-1-child6,
+  .desktop-1-child7,
+  .desktop-1-child8 {
+    position: absolute;
+    top: 2515.5px;
+    left: 511.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .desktop-1-child7,
+  .desktop-1-child8 {
+    top: 2566.5px;
+  }
+  .desktop-1-child8 {
+    top: 2462.5px;
+  }
+  .kmeans-clustering {
+    position: absolute;
+    top: 2475px;
+    left: 512px;
+    color: var(--color-white);
+  }
+  .brazil-real-estate-container {
+    position: absolute;
+    top: 2372px;
+    left: 963px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 477px;
+  }
+  .pandas-plotly-express1 {
+    position: absolute;
+    top: 2527px;
+    left: 512px;
+    color: var(--color-white);
+  }
+  .desktop-1-child10,
+  .desktop-1-child11,
+  .desktop-1-child9 {
+    position: absolute;
+    top: 2462.5px;
+    left: 962.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 396px;
+    height: 1px;
+  }
+  .desktop-1-child10,
+  .desktop-1-child11 {
+    top: 2566.5px;
+  }
+  .desktop-1-child11 {
+    top: 2515.5px;
+  }
+  .data-analysis-and,
+  .pandas-plotly-express2 {
+    position: absolute;
+    top: 2475px;
+    left: 963px;
+    color: var(--color-white);
+  }
+  .pandas-plotly-express2 {
+    top: 2527px;
+  }
+  .mexico-wallpaper-39-1920x1080-icon,
+  .untitled-design-1-removebg-p-icon {
+    position: absolute;
+    top: 2016px;
+    left: 61px;
+    width: 395px;
+    height: 309px;
+    object-fit: cover;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  .mexico-wallpaper-39-1920x1080-icon:hover {
+    transform: scale(1.1);
+  }
+  
+  .untitled-design-1-removebg-p-icon {
+    top: 1777px;
+    width: 598px;
+    height: 173px;
+  }
+  .desktop-1-child12 {
+    position: absolute;
+    top: 412.5px;
+    left: 97.5px;
+    border-top: 1px solid var(--color-linen);
+    box-sizing: border-box;
+    width: 519px;
+    height: 1px;
+  }
+  .desktop-1 {
+    position: relative;
+    background-color: #3c2e21;
+    width: 100%;
+    height: 4668px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-5xl);
+    color: var(--color-linen);
+    font-family: var(--font-inter);
+  }
+  .footer {
+    background-color: #3c2e21;;
+    color: #fff;
+    text-align: center;
+    padding: 2px ;
+  }
+  
+  .greeting-text {
+    font-size: 20px;
+  }

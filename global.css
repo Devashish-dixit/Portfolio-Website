@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    line-height: normal;
+    font-family: 'Poppins',sans-serif;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: 'Poppins';
+    --font-inherit: inherit;
+  
+    /* font sizes */
+    --font-size-5xl: 20px;
+    --font-size-13xl: 28px;
+    --font-size-17xl: 32px;
+  
+    /* Colors */
+    --color-gray-100: #131412;
+    --color-linen: #eeeee6;
+    --color-white: #fff;
+    --color-darkgray: #aba9a8;
+  
+    /* Paddings */
+    --padding-13xl: 32px;
+  
+    /* border radiuses */
+    --br-8xl: 27px;
+  }
+  
